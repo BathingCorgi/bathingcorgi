@@ -1,0 +1,28 @@
+.background{
+    background-color: whitesmoke;
+    margin: 20% auto;
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+body {
+    background-color:bisque; 
+    top: 0; 
+    left: 0; 
+    width: 99%; 
+    height: 97%;
+    position: absolute; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+p {display: table-cell; vertical-align: middle; text-align: center}
+
